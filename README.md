@@ -1,4 +1,6 @@
 ## :rocket: Image Manipulation with Python Pillow
+**What's the looks?**
+<img scr="images/web.jpg" width="100">
 
 **Why this app you need to use?**
 
