@@ -1,6 +1,7 @@
 ## :rocket: Image Manipulation with Python Pillow
+
 **What's the looks?**
-<img scr="images/web.jpg" width="100">
+![web](https://user-images.githubusercontent.com/17263976/64958697-8b562380-d8b1-11e9-8bcf-981bb6a07790.jpg)
 
 **Why this app you need to use?**
 
