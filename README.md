@@ -1,1 +1,1 @@
-# Image-Manipulation-with-Python-Pillow
+## Image Manipulation with Python Pillow
