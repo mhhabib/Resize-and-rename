@@ -1,4 +1,4 @@
-## :rocket: Image Manipulation with Python Pillow
+## :rocket: Mutiple image resize and rename with Python Pillow
 
 **What's the looks?**
 ![web](https://user-images.githubusercontent.com/17263976/64958697-8b562380-d8b1-11e9-8bcf-981bb6a07790.jpg)
